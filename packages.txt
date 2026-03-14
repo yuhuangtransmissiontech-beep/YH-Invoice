@@ -1,6 +1,7 @@
 libjpeg-dev
 zlib1g-dev
-libfreetype6-dev
+libfreetype-dev=2.10.4+dfsg-1+deb11u2
+libfreetype6-dev=2.10.4+dfsg-1+deb11u2
 liblcms2-dev
 libtiff5-dev
 libwebp-dev
