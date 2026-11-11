@@ -27,7 +27,7 @@ SELLER_PROFILES = [
 MODEL_NUMBERS = [
     "YH8-520", "YH8-520S", "YH8-520P", "YH8-521", "YH8-522",
     "YH8-523D", "YH8-524E", "YH8-525", "YH8-526G", "YH8-526S",
-    "YH8-527", "YH8-528", "Single Push Rod Controller",
+    "YH8-527", "YH8-528K", "Single Push Rod Controller",
     "2-CH Synchronous Controller", "4-CH Synchronous Controller",
     "Voltage converter", "Power Supply", "Other"
 ]
@@ -45,7 +45,7 @@ MODEL_IMAGE_MAP = {
     "YH8-526G": "526G.png",
     "YH8-526S": "526S.png",
     "YH8-527": "527.png",
-    "YH8-528": "528.png",
+    "YH8-528K": "528K.png",
     "Voltage converter": "vconverter.png",
     "Power Supply": "psupply.png",
     "Single Push Rod Controller": "1ch.png",
